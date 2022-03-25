@@ -27,7 +27,10 @@ The project could be further expanded through additional methodes like root calc
 Furthermore a main-method could be implemented.
 
 wrote by Elisabeth Wadler IT-student of the FH-Joanneum.
+- [GitHub Profile](https://github.com/elliwadler)
+- [FH Joanneum](https://www.fh-joanneum.at/)
 
 ## Exercises
--[Exercise 1](exercise1.md) 
+- [Exercise 1](exercise1.md) 
+- [Exercise 2](exercise2.md)
 

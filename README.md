@@ -33,4 +33,5 @@ wrote by Elisabeth Wadler IT-student of the FH-Joanneum.
 ## Exercises
 - [Exercise 1](exercise1.md) 
 - [Exercise 2](exercise2.md)
+- [Exercise 3](exercise3.md)
 

@@ -9,4 +9,9 @@ and for the other the result will be calculated again (3+5, add(3,5)).
 ![](resources/images/JUnitTest.JPG)
 ###Test coverage
 
+
 ![](resources/images/ex4_1.png)
+
+###Test faculty
+
+![](resources/images/ex4_2.png)

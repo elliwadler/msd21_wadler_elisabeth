@@ -58,5 +58,5 @@ public class CalculatorTest {
 
     @Test
     public void calcFacultyTest3(){
-        Assertions.assertEquals(6, calc.faculty(3));}
+        Assertions.assertEquals(0, calc.faculty(-3));}
 }

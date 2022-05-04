@@ -36,7 +36,7 @@ public class CalculatorTest {
 
     @Test
     public void calcMultiplyTest2(){
-        Assertions.assertEquals(5*3, calc.multiply(5, 3));}
+        Assertions.assertEquals(5*3.25, calc.multiply(5, 3.25),0.001);}
 
     @Test
     public void calcDivideTest1(){
@@ -45,5 +45,18 @@ public class CalculatorTest {
 
     @Test
     public void calcDivideTest2(){
-        Assertions.assertEquals(15/3, calc.divide(15, 3));}
+        Assertions.assertEquals(15/4.0, calc.divide(15, 4), 0.001);}
+
+    @Test
+    public void calcFacultyTest1(){
+        Assertions.assertEquals(120, calc.faculty(5));}
+
+    @Test
+    public void calcFacultyTest2(){
+        Assertions.assertEquals(1, calc.faculty(0));
+    }
+
+    @Test
+    public void calcFacultyTest3(){
+        Assertions.assertEquals(6, calc.faculty(3));}
 }

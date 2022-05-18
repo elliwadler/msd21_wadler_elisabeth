@@ -1,9 +1,9 @@
 # Maven Dokumentation
 
-![](screenMaven.JPG)
+![](resources/images/screenMaven.JPG)
 
 After the first run of the projekt the "target"-folder occurs.
 
-![](screenMavenRunCal.JPG)
+![](resources/images/screenMavenRunCal.JPG)
 
 Run Project via Console.

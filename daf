@@ -1,0 +1,78 @@
+[33mcommit 83272ef2ae192052f8370e3f496531b8d4bf5ae3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Elisabeth Wadler <elisabeth.wadler@edu.fh-joanneum.at>
+Date:   Wed May 4 12:11:36 2022 +0200
+
+    fully tested and operational
+
+[33mcommit e04103c6606814a43ab12827bd3c991b1af73bcd[m
+Author: Elisabeth Wadler <elisabeth.wadler@edu.fh-joanneum.at>
+Date:   Wed May 4 12:08:01 2022 +0200
+
+    NO complete implementation faculty
+
+[33mcommit c1914041e9f2517577417348c0410832b9575013[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Elisabeth Wadler <elisabeth.wadler@edu.fh-joanneum.at>
+Date:   Wed May 4 11:19:24 2022 +0200
+
+    testcase & exercise4.md
+
+[33mcommit 20a136d77ca4b6a6c3b33ad7ed91301020dbd0f1[m
+Merge: 91de0be 5947a1a
+Author: Elisabeth Wadler <elisabeth.wadler@edu.fh-joanneum.at>
+Date:   Wed Apr 13 22:35:41 2022 +0200
+
+    Merge branch 'main' of https://github.com/elliwadler/msd21_wadler_elisabeth
+
+[33mcommit 91de0be4298614ee45dbbeaa5a09cf3a944f82f2[m
+Author: Elisabeth Wadler <elisabeth.wadler@edu.fh-joanneum.at>
+Date:   Wed Apr 13 22:34:57 2022 +0200
+
+    readme
+
+[33mcommit 5947a1afa8daff42652680547aefa6ad624afac3[m
+Author: elliwadler <102236302+elliwadler@users.noreply.github.com>
+Date:   Tue Apr 12 10:55:59 2022 +0200
+
+    Delete Calculator.class
+
+[33mcommit 7c3a24e2eb2ff07ad445bbed1eb025e719f6d270[m
+Author: Elisabeth Wadler <elisabeth.wadler@edu.fh-joanneum.at>
+Date:   Tue Apr 12 10:51:18 2022 +0200
+
+    few changes
+
+[33mcommit b16b5314765c53f7d69325695a8a7440a92ebba7[m
+Author: Elisabeth Wadler <elisabeth.wadler@edu.fh-joanneum.at>
+Date:   Tue Apr 12 10:46:50 2022 +0200
+
+    src & pom
+
+[33mcommit 5812e64fd779805c60b87d6177db8e1ec9f23a9f[m
+Author: Elisabeth Wadler <elisabeth.wadler@edu.fh-joanneum.at>
+Date:   Thu Apr 7 16:52:22 2022 +0200
+
+    pom, gitignore, exercise3
+
+[33mcommit 8eab3fa551e20eac25328997494f1f6b09efe362[m
+Author: Elisabeth Wadler <elisabeth.wadler@edu.fh-joanneum.at>
+Date:   Fri Mar 25 09:20:57 2022 +0100
+
+    modified README
+
+[33mcommit c4ccbe96ab9ae02f9774922a7ed6c055f3fa2ff6[m
+Author: Elisabeth Wadler <elisabeth.wadler@edu.fh-joanneum.at>
+Date:   Fri Mar 25 09:16:55 2022 +0100
+
+    changed README & exercise2
+
+[33mcommit 765620b0272e9e9307864cae255820f3c3755642[m
+Author: Elisabeth Wadler <elisabeth.wadler@edu.fh-joanneum.at>
+Date:   Fri Mar 25 09:06:10 2022 +0100
+
+    gitignore
+
+[33mcommit 496da69ee1fb7591a9387be194f8ad574b3b2c9f[m
+Author: Elisabeth Wadler <elisabeth.wadler@edu.fh-joanneum.at>
+Date:   Fri Mar 25 09:00:07 2022 +0100
+
+    first commit-markdown files

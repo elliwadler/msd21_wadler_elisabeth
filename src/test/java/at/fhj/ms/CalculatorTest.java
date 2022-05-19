@@ -4,6 +4,8 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+import java.io.FileNotFoundException;
+
 public class CalculatorTest {
     private Calculator calc;
     @BeforeEach
@@ -46,6 +48,14 @@ public class CalculatorTest {
     @Test
     public void calcDivideTest2(){
         Assertions.assertEquals(15/4.0, calc.divide(15, 4), 0.001);}
+
+    @Test
+    public void calcDivideTest3(){
+        Assertions.assertThrows(ArithmeticException.class, () -> {
+            calc.divide(5, 0);
+        });
+    }
+
 
     @Test
     public void calcFacultyTest1(){

@@ -3,3 +3,4 @@
 *.html
 *.idea
 target/
+log4j2.xml

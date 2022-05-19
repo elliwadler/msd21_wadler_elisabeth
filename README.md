@@ -30,9 +30,13 @@ wrote by Elisabeth Wadler IT-student of the FH-Joanneum.
 - [GitHub Profile](https://github.com/elliwadler)
 - [FH Joanneum](https://www.fh-joanneum.at/)
 
+###log configuration template:
+- [Template](log4j2.xml.template)
+
 ## Exercises
 - [Exercise 1](exercise1.md) 
 - [Exercise 2](exercise2.md)
 - [Exercise 3](exercise3.md)
 - [Exercise 4](exercise4.md)
+- [Exercise 5](exercise5.md)
 

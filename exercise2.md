@@ -36,7 +36,7 @@
 - git diff
 
 ## git pull 
-- zum erhalten vom Updates vom Remote-Repository
+- zum Erhalten vom Updates vom Remote-Repository
 - Änderungen werden sofort lokal geupdatet
 - git pull <remote>
 
